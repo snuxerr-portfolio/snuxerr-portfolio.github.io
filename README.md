@@ -1,1 +1,1 @@
-<a src="snuxerr-portfolio github.io">
+<a href="snuxerr-portfolio github.io">
